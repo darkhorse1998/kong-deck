@@ -2,7 +2,7 @@ _format_version: "1.1"
 _workspace: default
 consumers:
 - keyauth_credentials:
-  - key: secret
+  - key: secret1
   username: consumer-service-1
 services:
 - connect_timeout: 60000
